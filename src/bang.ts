@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "Entertainment",
+    d: "honkai-star-rail.fandom.com",
+    r: 0,
+    s: "Honkai Star Rail Fandom Wiki",
+    sc: "Games (specific)",
+    t: "hsr",
+    u: "https://honkai-star-rail.fandom.com/wiki/Special:Search?query={{{s}}}",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
