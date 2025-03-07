@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.link?q=%s"
+            value="https://syl-dawn.vercel.app?q=%s"
             readonly 
           />
           <button class="copy-button">
@@ -21,11 +21,13 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <a href="https://t3.chat" target="_blank">t3.chat</a>
-        •
         <a href="https://x.com/theo" target="_blank">theo</a>
         •
-        <a href="https://github.com/t3dotgg/unduck" target="_blank">github</a>
+        <a href="https://sylfr.dev" target="_blank">syl</a>
+        •
+        <a href="https://github.com/t3dotgg/unduck" target="_blank">github (original)</a>
+        •
+        <a href="https://github.com/NekoDrone/dawn" target="_blank">github (fork, current)</a>
       </footer>
     </div>
   `;
