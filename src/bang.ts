@@ -2,15 +2,6 @@
 
 export const bangs = [
   {
-    c: "AI",
-    d: "www.t3.chat",
-    r: 0,
-    s: "T3 Chat",
-    sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
-  },
-  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
@@ -70753,21 +70744,21 @@ export const bangs = [
   },
   {
     c: "Entertainment",
-    d: "mtgsalvation.gamepedia.com",
+    d: "mtg.wiki",
     r: 56,
-    s: "MTG Salvation Wiki",
+    s: "MTG Wiki",
     sc: "Games (offline)",
     t: "mtgs",
-    u: "http://mtgsalvation.gamepedia.com/?search={{{s}}}",
+    u: "https://mtg.wiki/index.php?search={{{s}}}",
   },
   {
     c: "Entertainment",
-    d: "mtgsalvation.gamepedia.com",
+    d: "mtg.wiki",
     r: 79,
     s: "MTG Salvation",
     sc: "Games (general)",
     t: "mtgwiki",
-    u: "http://mtgsalvation.gamepedia.com/index.php?search={{{s}}}",
+    u: "https://mtg.wiki/index.php?search={{{s}}}",
   },
   {
     c: "Research",
