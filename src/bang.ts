@@ -70755,7 +70755,7 @@ export const bangs = [
     c: "Entertainment",
     d: "mtg.wiki",
     r: 79,
-    s: "MTG Salvation",
+    s: "MTG Wiki",
     sc: "Games (general)",
     t: "mtgwiki",
     u: "https://mtg.wiki/index.php?search={{{s}}}",
