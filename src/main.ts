@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://syl-dawn.vercel.app?q=%s"
+            value="https://dawn.sylfr.dev?q=%s"
             readonly 
           />
           <button class="copy-button">
