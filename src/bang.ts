@@ -74095,7 +74095,7 @@ export const bangs = [
     s: "NixOS Packages",
     sc: "Sysadmin",
     t: "nixp",
-    u: "https://search.nixos.org/packages?query={{{s}}}",
+    u: "https://search.nixos.org/packages?channel=unstable&from=0&size=50&sort=relevance&type=packages&query={{{s}}}",
   },
   {
     c: "Online Services",
