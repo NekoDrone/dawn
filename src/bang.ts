@@ -12,6 +12,15 @@ export const bangs = [
   },
   {
     c: "Tech",
+    d: "kagi.com",
+    r: 0,
+    s: "Kagi Search",
+    sc: "Search engine",
+    t: "k",
+    u: "https://kagi.com/search?q={{{s}}}",
+  },
+  {
+    c: "Tech",
     d: "www.01net.com",
     r: 4,
     s: "01net",
@@ -58607,15 +58616,6 @@ export const bangs = [
     sc: "Online",
     t: "kk",
     u: "https://kubekings.com/buscar?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=",
-  },
-  {
-    c: "Entertainment",
-    d: "www.konsolentreff.de",
-    r: 73,
-    s: "Konsolentreff.de",
-    sc: "Forum",
-    t: "k",
-    u: "https://www.konsolentreff.de/search/1/?q={{{s}}}",
   },
   {
     c: "Entertainment",
