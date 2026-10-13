@@ -7037,12 +7037,12 @@ export const bangs = [
   },
   {
     c: "Entertainment",
-    d: "ffxiv.gamerescape.com",
+    d: "ffxiv.consolegameswiki.com",
     r: 27,
     s: "GamerEscape",
     sc: "Games (specific)",
     t: "arr",
-    u: "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}",
+    u: "https://ffxiv.consolegameswiki.com/mediawiki/index.php?title=Special%3ASearch&go=Go&search={{{s}}}",
   },
   {
     c: "Shopping",
@@ -35585,7 +35585,7 @@ export const bangs = [
     s: "Final Fantasy XIV A Realm Reborn Wiki",
     sc: "Games (specific)",
     t: "ffxiv",
-    u: "https://ffxiv.consolegameswiki.com/mediawiki/index.php?search={{{s}}}",
+    u: "https://ffxiv.consolegameswiki.com/mediawiki/index.php?title=Special%3ASearch&go=Go&search={{{s}}}",
   },
   {
     c: "Entertainment",
